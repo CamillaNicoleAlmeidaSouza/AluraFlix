@@ -1,0 +1,10 @@
+body {
+    background-color: navy;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', "Comic Sans MS",
+    margin: 0;
+}
+
+header { 
+    font-size: 60px;
+    bonder-bottom: double 5px black;
