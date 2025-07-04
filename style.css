@@ -1,13 +1,13 @@
 body {
-    background-color: rgb(245, 245, 245);
-    color: rgb(164, 200, 231);
+    background-color: rgb(255, 255, 255);
+    color: rgb(235, 190, 227);
     font-family: 'Trebuchet MS', "Comic Sans MS",
     margin: 0;
 }
 
 header { 
     font-size: 60px;
-    bonder-bottom: double 5px blue;
+    bonder-bottom: double 5px rgb(243, 131, 215);
     padding: 6px;
     text-align: center;
 }
