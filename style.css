@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(255, 255, 255);
-    color: rgb(245, 124, 223);
+    background-color: rgb(243, 134, 179);
+    color: rgb(7, 7, 7);
     font-family: 'Trebuchet MS', "Comic Sans MS',  'Comic Sans MS', cursive;
     margin: 0;
 }
@@ -13,7 +13,7 @@ header {
 
 h1  {
     font-size: 30px;
-    border-bottom: double 5px black;
+    border-bottom: double 5px rgb(253, 107, 204);
     text-align: center;
 }
 
